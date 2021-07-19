@@ -1,4 +1,5 @@
 # NYC-TaxiDemandPrediction
+![Uploading image.png…]()
 ----
 ### `Business Problem:`
 * For a given location in NYC, our goal is to predict number of pickups in that given location. Some location require more taxis at a particular time than other locations like schools, hospitals, offices etc. The prediction result can be transferred to the taxi drivers via Smartphone app, and they can subsequently move to locations where predicted pickups are high.
