@@ -1,5 +1,4 @@
 # NYC-TaxiDemandPrediction
-![image](https://user-images.githubusercontent.com/26667491/126169071-0023521c-f646-4cae-bfe7-e0ba02aee13a.png)
 ![image](https://user-images.githubusercontent.com/26667491/126169242-8ee795c6-570e-425c-8127-05598fdefbd3.png)
 
 ----
