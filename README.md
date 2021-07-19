@@ -26,31 +26,30 @@
 `Source of Data:`
 Data can be downloaded from here:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml. Here, we have used Jan- 2015 and Jan- 2016 data.
-
+---
 `Getting Started:`
-Start by downloading the project and run "Taxi-Demand-Prediction-NYC.ipynb" file in ipython-notebook.
+* Start by downloading project and run "Taxi-Demand-Prediction-NYC.ipynb" file in ipython-notebook.
 
-Prerequisites
-You need to have installed following softwares and libraries in your machine before running this project.
-
-Python 3: https://www.python.org/downloads/
-Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
-Libraries:
-dask: It is used to handle very large files.
+`Prerequisites:`
+* Installed following softwares and libraries in your machine before running this project.
+  - Python 3
+  - Anaconda
+  - Libraries:
+  - Dask: Used to handle very large files.
 
 i) pip3 install dask
-folium: It is used to plot maps using latitude and longitude.
 
 i) pip3 install folium
+folium: Used to plot maps using latitude and longitude.
 ii) conda install -c conda-forge folium
-xgboost: It is used to make xgboost regression model.
 
 i) pip3 install xgboost
 ii) conda install -c conda-forge xgboost
-gpxpy: It is used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
 
 i) pip install gpxpy
-Authors
-• Gaurav Sharma - Complete work
+gpxpy: Used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
+
+`Authors:`
+* Mukesh Manral
 
 
