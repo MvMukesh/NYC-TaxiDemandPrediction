@@ -28,7 +28,9 @@
 `Source of Data:`
 Data can be downloaded from here:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml. Here, we have used Jan- 2015 and Jan- 2016 data.
+
 ---
+
 `Getting Started:`
 * Start by downloading project and run "Taxi-Demand-Prediction-NYC.ipynb" file in ipython-notebook.
 
