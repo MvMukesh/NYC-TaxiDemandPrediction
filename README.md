@@ -53,7 +53,7 @@ ii) conda install -c conda-forge xgboost
 i) pip install gpxpy
 gpxpy: Used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
 
-`Authors:`
+`Author:`
 * Mukesh Manral
 
 
